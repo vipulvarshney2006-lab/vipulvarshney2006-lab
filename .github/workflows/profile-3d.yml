@@ -44,7 +44,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           # Replace YOUR_USERNAME with your GitHub username
-          USERNAME: YOUR_USERNAME
+          USERNAME: vipulvarshney2006-lab
 
       - name: Commit and push
         run: |
@@ -52,5 +52,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "Update 3D contribution graph" || exit 0
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/YOUR_USERNAME/YOUR_USERNAME.git
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/vipulvarshney2006-lab/vipulvarshney2006-lab.git
           git push origin HEAD:main --force
