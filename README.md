@@ -63,3 +63,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/vipulvarshney2006-lab/vipulvarshney2006-lab/output/github-contribution-grid-snake.svg)
