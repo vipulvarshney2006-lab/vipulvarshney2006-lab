@@ -66,3 +66,7 @@
 ## 🐍 My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/vipulvarshney2006-lab/vipulvarshney2006-lab/output/github-contribution-grid-snake.svg)
+
+## 📊 3D Contribution Graph
+
+![3D Contribution Graph](https://raw.githubusercontent.com/vipulvarshney2006-lab/vipulvarshney2006-lab/output/profile-3d-contrib/profile-night-rainbow.svg)
